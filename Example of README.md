@@ -1,3 +1,3 @@
-###An example of a repository
+An example of a repository
 
 
